@@ -115,3 +115,12 @@ ADD setup.d/openach-start /openach-start
 # By default, run our start scripts
 CMD ["bash", "/openach-start"]
 
+cd docker-openach
+
+   rm ssl/openach/openach.crt ssl/openach/openach.key
+   ln -s ssl/openach/<your_ssl.crt> ssl/openach/openach.crt
+   ln -s ssl/openach/<your_ssl.key> ssl/openach/openach.key
+
+install PHP debug
+
+
