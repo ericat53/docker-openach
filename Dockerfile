@@ -23,4 +23,4 @@ CMD ["sh", "-c", "/usr/games/fortune -a | cowsay"]
    Common Name (e.g. server FQDN or YOUR name) []:localhost
    Email Address []:info@yourcompany.com
 
-       sudo docker build -t openach/openach .
+    
