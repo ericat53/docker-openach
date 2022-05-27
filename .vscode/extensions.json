@@ -1,6 +1,9 @@
 {
     "recommendations": [
         "oleg-shilo.cs-script",
-        "ms-vscode.powershell"
+        "ms-vscode.powershell",
+        "rocketsoftware.rocket-mvbasic",
+        "ongroup.mvondebugger",
+        "RocketSoftware.rocket-mvbasic"
     ]
 }
