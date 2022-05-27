@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "oleg-shilo.cs-script"
+        "oleg-shilo.cs-script",
+        "ms-vscode.powershell"
     ]
 }
