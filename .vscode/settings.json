@@ -7,5 +7,6 @@
     },
     "[rocket-mvbasic]": {
         "editor.codeLens": false
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
